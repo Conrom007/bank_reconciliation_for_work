@@ -1,2 +1,1 @@
-# bank_reconciliation_for_work
-Automatic Bank Reconciliation.
+Automated the reconciliation process and decreased the time needed per month from 1-1.5 day to around 30 minutes after the unmatched entries are returned by the function. All of this is hosted in a Jupyter Notebook to allow the non-coding-proficient staff to use it.
